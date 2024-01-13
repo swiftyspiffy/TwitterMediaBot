@@ -1,4 +1,4 @@
-module TelegramTwitterMediaBot
+module TwitterMediaBot
 
 go 1.21
 
