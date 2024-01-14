@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"TelegramTwitterMediaBot/utils"
+	"TwitterMediaBot/utils"
 	"fmt"
 	tele "gopkg.in/telebot.v3"
 )

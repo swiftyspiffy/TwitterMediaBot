@@ -1,10 +1,10 @@
 package main
 
 import (
-	"TelegramTwitterMediaBot/cmd"
-	"TelegramTwitterMediaBot/telereporter"
-	"TelegramTwitterMediaBot/twitter"
-	"TelegramTwitterMediaBot/utils"
+	"TwitterMediaBot/cmd"
+	"TwitterMediaBot/telereporter"
+	"TwitterMediaBot/twitter"
+	"TwitterMediaBot/utils"
 	"errors"
 	"fmt"
 	"go.uber.org/zap"
